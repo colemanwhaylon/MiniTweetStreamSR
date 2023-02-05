@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTweetStreamMVC", "MiniTweetStreamMVC\MiniTweetStreamMVC.csproj", "{88388389-FA7F-4571-90FA-BBE14B2AE23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88388389-FA7F-4571-90FA-BBE14B2AE23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88388389-FA7F-4571-90FA-BBE14B2AE23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88388389-FA7F-4571-90FA-BBE14B2AE23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88388389-FA7F-4571-90FA-BBE14B2AE23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8AA3FE6-04D0-459D-8B78-8784A406E577}
+	EndGlobalSection
+EndGlobal
